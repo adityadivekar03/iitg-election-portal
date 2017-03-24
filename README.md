@@ -112,7 +112,16 @@ ___
 
 ____________________
 
-### About the project author
+### About the project authors
+
+#### Mahim Goyal  
+B.Tech undergraduate  
+Electronics & Electrical Engineering  
+Indian Institute of Technology  
+Guwahati, India
+
+mahim97@gmail.com  
+https://www.linkedin.com/in/mahim-goyal-b59b4095/
 
 #### Roopansh Bansal  
 B.Tech undergraduate  
