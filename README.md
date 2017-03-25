@@ -121,7 +121,8 @@ Indian Institute of Technology
 Guwahati, India
 
 mahim97@gmail.com  
-https://www.linkedin.com/in/mahim-goyal-b59b4095/
+[Linkedin](https://www.linkedin.com/in/mahim-goyal-b59b4095/)
+
 
 #### Roopansh Bansal  
 B.Tech undergraduate  
@@ -129,5 +130,5 @@ Computer Science & Engineering
 Indian Institute of Technology  
 Guwahati, India  
 
-roopansh.bansal@gmail.com  
-www.linkedin.com/in/roopansh-bansal
+roopansh.bansal@gmail.com   
+[Linkedin](www.linkedin.com/in/roopansh-bansal)
